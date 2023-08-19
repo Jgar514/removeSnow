@@ -11,6 +11,7 @@ alt="IMAGE ALT TEXT HERE" width="auto" height="400" border="10" /></a>
 ### [Youtube Demo](https://www.youtube.com/watch?v=mOTKgQKJZSM&t=5s)
 
 </div>
+
 ## Case Study:
 
 Blackline Contracting is a general contractor that provides snow removal services during winter months. The company comprises of five general managers who subcontract the work to various companies and crews. Blackline Contracting has contracts with commercial properties throughout the area and strives to increase its labor resources every year.
