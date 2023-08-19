@@ -3,7 +3,7 @@
 Snow Removal Company Software
 
 <a href="https://youtu.be/mOTKgQKJZSM?t=142
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/Jgar514/removeSnow/blob/main/dashboard.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Youtube demonstration: https://www.youtube.com/watch?v=mOTKgQKJZSM&t=5s
