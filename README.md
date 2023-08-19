@@ -6,7 +6,7 @@
 
 <a href="https://youtu.be/mOTKgQKJZSM?t=142
 " target="_blank"><img src="https://github.com/Jgar514/removeSnow/blob/main/dashboard.png" 
-alt="IMAGE ALT TEXT HERE" width="400" height="aut0" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="auto" height="400" border="10" /></a>
 
 ### [Youtube Demo](https://www.youtube.com/watch?v=mOTKgQKJZSM&t=5s)
 
