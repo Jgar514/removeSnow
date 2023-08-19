@@ -10,11 +10,11 @@ alt="IMAGE ALT TEXT HERE" width="400" height="aut0" border="10" /></a>
 
 ### [Youtube Demo](https://www.youtube.com/watch?v=mOTKgQKJZSM&t=5s)
 
+</div>
+
 Remove Snow Blackline Contracting is a general contractor that provides snow removal services during winter months. The company comprises of five general managers who subcontract the work to various companies and crews. Blackline Contracting has contracts with commercial properties throughout the area and strives to increase its labor resources every year.
 
 When a snowstorm hits, the company distributes a binder to each sub-contractor containing all the locations, not just their specific assignments. After the storm, each individual submits a form for each instance of work performed at each property. However, this often results in hundreds of crumpled and possibly inaccurate reports. It's possible that someone involved in labor-intensive work may have forgotten or lost a form along the way.
-
-//pictures here
 
 Business Need The system that the company developed seems to create a lot of stress and disorganization. To keep track of all the properties they have contracts with, they would put laminated pages in binders. However, with the number of subcontractors needing this information, it resulted in a lot of binders and laminated pages. So, each snow removal crew has a binder with 30 or so locations, and they flip through to find the three or four they are assigned to.
 
